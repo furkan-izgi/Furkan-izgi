@@ -24,15 +24,6 @@
 <a><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" height=25></a><br>
 <a href="https://github.com/Furkan-izgi"><img align=center src="https://github-readme-stats.vercel.app/api/top-langs/?username=Furkan-izgi&exclude_repo=github-readme-stats,anuraghazra.github.io&theme=custom&bg_color=111111&text_color=ffffff&icon_color=7d8cbe&title_color=7d8cbe&border_color=7d8cbe"></a>  
 </p>
-<hr>
-<h2 align='center'>Other
-</h2>
-<p align="center"> 
-<a><img src="https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" height=25></a> 
-<a><img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" height=25></a> <br>
-<a href="https://github.com/Furkan-izgi"><img align=center src="https://github-readme-stats.vercel.app/api/wakatime?username=Furkan-izgi&theme=custom&bg_color=111111&text_color=ffffff&icon_color=7d8cbe&title_color=7d8cbe&border_color=7d8cbe"></a>
-</p>
-<hr>
 <h2 align='center'>Communication
 </h2>
 <p align="center"> 
