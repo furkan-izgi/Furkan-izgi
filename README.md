@@ -1,4 +1,3 @@
-![Furkan-izgi](https://komarev.com/ghpvc/?username=Furkan-izgi&color=blueviolet&style=flat-square)
 <hr>
 <h2 align='center'>Stats</h2>
 <p align="center">
