@@ -1,6 +1,6 @@
 <hr>
-|💻| Python Developer
-|👩‍💻| Embedded Systems Fancier
+<h2 align='center'>|💻| Python Developer</h2>
+<h2 align='center'>|👩‍💻| Embedded Systems Fancier</h2>
 <h2 align='center'>Stats</h2>
 <p align="center">
 <a href="https://github.com/Furkan-izgi">
