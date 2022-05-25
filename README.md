@@ -24,11 +24,12 @@
 <p align="center"> 
 <a><img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" height=25></a>
 <a><img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" height=25></a> 
-<a><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" height=25></a><br>
-<a href="https://github.com/Furkan-izgi"><img align=center src="https://github-readme-stats.vercel.app/api/top-langs/?username=Furkan-izgi&theme=custom&bg_color=111111&text_color=ffffff&icon_color=7d8cbe&title_color=7d8cbe&border_color=7d8cbe"></a>  
-</p>
+<a><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" height=25></a>
+<a><img src="https://img.shields.io/badge/assembly-%230099C.svg?style=for-the-badge&logoColor=ffdd54" height=25></a><br>
+<a href="https://github.com/Furkan-izgi"><img align=center src="https://github-readme-stats.vercel.app/api/top-langs/?username=Furkan-izgi&layout=compact&theme=custom&bg_color=111111&text_color=ffffff&icon_color=7d8cbe&title_color=7d8cbe&border_color=7d8cbe"></a></p>
 <h2 align='center'>Communication
 </h2>
 <p align="center"> 
 <a href="mailto: fr.izgi.kn@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=25></a>
+<a href="https://www.linkedin.com/in/furkan-izgi/" ><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
 </p>
