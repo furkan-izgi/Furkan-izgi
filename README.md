@@ -14,7 +14,6 @@
 <h2 align='center'>Media</h2>
 <p align="center">
 <br>
-<a href="https://www.instagram.com/izgi_frkn/" ><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" height=25></a>
 <a href="https://www.linkedin.com/in/furkan-izgi/" ><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> 
 </p>
 <hr>
