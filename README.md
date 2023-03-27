@@ -23,6 +23,10 @@
 <a><img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" height=25></a> 
 <a><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" height=25></a>
 <a><img src="https://img.shields.io/badge/assembly-%230099C.svg?style=for-the-badge&logoColor=ffdd54" height=25></a><br></p>
+<h2 align='center'>Other Skills</h2>
+<p align="center">
+<a><img src="https://img.shields.io/badge/-LTSpiceIV-red?style=for-the-badge" height=25></a>
+<a><img src="https://img.shields.io/badge/-Altium_Designer-blue?style=for-the-badge" height=25></a></p>
 <h2 align='center'>Communication
 </h2>
 <p align="center"> 
