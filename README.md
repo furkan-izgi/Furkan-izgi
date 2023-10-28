@@ -20,9 +20,4 @@
 <p align="center">
 <a><img src="https://img.shields.io/badge/-LTSpiceIV-red?style=for-the-badge" height=25></a>
 <a><img src="https://img.shields.io/badge/-Altium_Designer-blue?style=for-the-badge&logo=altiumdesigner&logoColor=white" height=25></a></p>
-<h2 align='center'>Communication
-</h2>
-<p align="center"> 
-<a href="mailto: fr.izgi.kn@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=25></a>
-<a href="https://www.linkedin.com/in/furkan-izgi/" ><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
-</p>
+
