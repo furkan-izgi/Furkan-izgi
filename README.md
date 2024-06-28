@@ -2,7 +2,7 @@
 <h2 align='center'>|💻| Python Developer</h2>
 <h2 align='center'>|👩‍💻| Embedded Systems Fancier</h2>
 <p align='center'><img src="https://graph.org/file/655f0ca9affd2ef80a1b2.gif"></p>
-<p align='center'>Gömülü Yazılım, Gömülü Sistemler ve Giyilebilir Teknolojiler alanlarına meraklı, Python ve C üzerinde kendini geliştiren Elektrik-Elektronik Mühendis Adayı bir genç.</p>
+<p align='center'>Gömülü Yazılım, Gömülü Sistemler ve Giyilebilir Teknolojiler alanlarına meraklı, Python ve C üzerinde kendini geliştiren Elektrik-Elektronik Mühendisi bir genç.</p>
 <h2 align='center'>Stats</h2>
 <p align="center">
 <a href="https://github.com/mickiemouse">
