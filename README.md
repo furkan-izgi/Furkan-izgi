@@ -4,6 +4,7 @@
 <p align='center'>Gömülü Yazılım, Gömülü Sistemler ve Giyilebilir Teknolojiler alanlarına meraklı, Python ve C üzerinde kendini geliştiren Elektrik-Elektronik Mühendis Adayı bir genç.</p>
 <h2 align='center'>Stats</h2>
 <p align="center">
+<img src="https://graph.org/file/655f0ca9affd2ef80a1b2.gif">
 <a href="https://github.com/mickiemouse">
 <img src="https://komarev.com/ghpvc/?username=mickiemouse&style=flat-square&color=7d8cbe&label=Profile+Views"></a>
 <a href="https://github.com/mickiemouse?tab=repositories">
