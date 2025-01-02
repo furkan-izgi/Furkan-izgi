@@ -1,7 +1,7 @@
 <p align='center'><img src="https://graph.org/file/655f0ca9affd2ef80a1b2.gif"></p>
 
 <hr>
-<p align="center"><a href="[https://bento.me/furkan-izgi](https://furkan-izgi.github.io/)"><img src="https://img.shields.io/badge/Other_Links-green?style=for-the-badge&logo=link" height=50></a></p>
+<p align="center"><a href="https://furkan-izgi.github.io"><img src="https://img.shields.io/badge/Other_Links-green?style=for-the-badge&logo=link" height=50></a></p>
 <hr>
 <h2 align='center'>Stats</h2>
 <p align="center">
